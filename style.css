@@ -229,6 +229,7 @@
 
 /* -------About me------- */
 .about-me-section {
+  margin: 25px;
   padding: 0 24px;
   background-color: #1c1a19;
   color: white;
