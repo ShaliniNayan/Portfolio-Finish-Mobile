@@ -1,4 +1,4 @@
-.head {
+.body {
   margin: 0;
   width: 375px;
   position: relative;
@@ -228,7 +228,7 @@
 /* -----Work section-----end */
 
 /* -------About me------- */
-.body {
+ body {
   margin: 0;
 }
 
